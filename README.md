@@ -1,2 +1,111 @@
-# Arena-Gym
-Arena Gym is not just a place, it's where HEROs are made. We are dedicated to helping you achieve your fitness goals and become the best version of yourself. Whether you're a beginner or a seasoned athlete, our state-of-the-art facilities and expert trainers are here to support you every step of the way. Join us at Arena Gym and unleash your HERO!
+# Arena Gym Website
+
+Welcome to **Arena Gym**, a sleek and modern gym website built with **HTML & CSS**. This project showcases a fictional gym that offers memberships, products, personal training, nutrition plans, and more.
+
+![Hero Section](assets/Hero-BG.jpg)
+
+---
+
+## 🔥 Features
+
+- **Responsive Design** – Works beautifully on desktop, tablet, and mobile devices.  
+- **Hero Section** – Eye-catching full-screen hero with CTA button.  
+- **About Us** – Introduces Arena Gym and its mission.  
+- **Services** – Highlights products, nutrition plans, and personal training.  
+- **Offers** – Shows current promotions for members.  
+- **Coaches Section** – Display trainers with specialties.  
+- **Testimonials** – Member reviews to boost trust.  
+- **Call-To-Action (CTA)** – Encourages sign-ups.  
+- **Footer** – Social links and copyright info.
+
+---
+
+## 🎨 Technologies Used
+
+- HTML5  
+- CSS3  
+- Google Fonts – [Roboto](https://fonts.google.com/specimen/Roboto)  
+- Font Awesome Icons  
+- GitHub Pages (for deployment)  
+
+---
+
+## 🗂 Folder Structure
+```
+├── 📁 assets
+│   ├── 📁 Screenshots
+│   │   ├── 🖼️ About us.png
+│   │   ├── 🖼️ CTA.png
+│   │   ├── 🖼️ Coaches.png
+│   │   ├── 🖼️ Hero.png
+│   │   ├── 🖼️ Offers.png
+│   │   ├── 🖼️ Services.png
+│   │   └── 🖼️ Testimonials.png
+│   ├── 🖼️ Hero-BG.jpg
+│   ├── 🖼️ John.jpg
+│   ├── 🖼️ Lisa.jpg
+│   ├── 🖼️ Mike.jpg
+│   ├── 🖼️ Nutrition.jpg
+│   ├── 🖼️ Personal.jpg
+│   ├── 🖼️ Sarah.jpg
+│   ├── 🖼️ Workout.jpg
+│   └── 🖼️ WorkoutEqu.jpg
+├── 📝 Readme.md
+├── 🌐 contact.html
+├── 🌐 index.html
+├── 📄 index.js
+├── 🌐 pricing.html
+├── 🎨 styles.css
+└── 🌐 trainers.html
+```
+
+---
+
+## 🌐 Live Demo
+
+### The website is hosted on GitHub Pages:
+https://omar-gouda.github.io/arena-gym/
+
+---
+## 📸 Screenshots
+
+### Hero section
+![Hero](assets/screenshots/hero.png)
+
+### Services section
+![Hero](assets/screenshots/services.png)
+
+### Offers section
+![Hero](assets/screenshots/offers.png)
+
+### CTA section
+![Hero](assets/screenshots/cta.png)
+
+### Coaches section
+![Hero](assets/screenshots/coaches.png)
+
+### Testimonials section
+![Hero](assets/screenshots/testimonials.png)
+
+---
+
+## 📝 Notes
+
+All images and data are placeholders and can be replaced with real gym information.
+
+This website is fully static (HTML/CSS), no backend yet.
+
+Perfect for showcasing front-end skills and creating a clean portfolio piece.
+
+---
+
+
+💡 Future Enhancements
+
+Add a login/signup system for members.
+
+Interactive in-body tracking & progress dashboard.
+
+E-commerce integration for gym products.
+
+Animations and transitions to enhance UX.
