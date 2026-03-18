@@ -69,26 +69,7 @@ https://omar-gouda.github.io/arena-gym/
 ---
 ## 📸 Screenshots
 
-### Hero section
-![hero](assets/screenshots/hero.png)
-
-### Hero section
-![about-us](assets/screenshots/About-us.png)
-
-### Services section
-![services](assets/screenshots/services.png)
-
-### Offers section
-![offers](assets/screenshots/offers.png)
-
-### CTA section
-![CTA](assets/screenshots/cta.png)
-
-### Coaches section
-![trnrPrev](assets/screenshots/coaches.png)
-
-### Testimonials section
-![testimonials](assets/screenshots/testimonials.png)
+All Screenshots are inside the assets folder!
 
 ---
 
