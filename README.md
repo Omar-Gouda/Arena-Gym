@@ -73,19 +73,19 @@ https://omar-gouda.github.io/arena-gym/
 ![Hero](assets/screenshots/hero.png)
 
 ### Services section
-![Hero](assets/screenshots/services.png)
+![Services](assets/screenshots/services.png)
 
 ### Offers section
-![Hero](assets/screenshots/offers.png)
+![Offers](assets/screenshots/offers.png)
 
 ### CTA section
-![Hero](assets/screenshots/cta.png)
+![CTA](assets/screenshots/cta.png)
 
 ### Coaches section
-![Hero](assets/screenshots/coaches.png)
+![Coaches](assets/screenshots/coaches.png)
 
 ### Testimonials section
-![Hero](assets/screenshots/testimonials.png)
+![Testimonials](assets/screenshots/testimonials.png)
 
 ---
 
